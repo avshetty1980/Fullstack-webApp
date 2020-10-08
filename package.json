@@ -1,5 +1,5 @@
 {
-  "name": "roux-academy",
+  "name": "Website-Name",
   "version": "1.0.0",
   "description": "Exercise files for my course Building a Website with Node.js and Express",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon --ignore feedback.json server.js"
   },
   "keywords": [],
-  "author": "Daniel Khan",
+  "author": "Akshay Shetty",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.10.0",
