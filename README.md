@@ -1,4 +1,4 @@
-# Building a website with Node.js and Express
+# Website with Node.js and Express
 
 
 ## Setting up the project
