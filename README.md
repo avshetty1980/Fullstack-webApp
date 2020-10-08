@@ -11,5 +11,4 @@
   git reset --hard
   git branch
   ```
-  
-Everything else will be discussed in my course.
+
